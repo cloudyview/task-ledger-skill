@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Local example ledgers users might create when testing
+docs/task-ledger/
+sessions/
+archive/
+
+# Misc
+*.log
