@@ -17,3 +17,13 @@ archive/
 
 # Misc
 *.log
+
+# AutoSync 收口批次自动追加
+node_modules/
+.venv/
+venv/
+__pycache__/
+dist/
+build/
+.next/
+.nuxt/
